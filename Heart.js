@@ -1568,53 +1568,6 @@ case 'truth':
                            
   case 'menu': case 'help': case 'h': 
   const txt = `╭─「 *yardim meynusu* 」
-│⋊ 𝕌𝕤𝕖𝕣: ${pushname} 
-│⋊ 𝔹𝕠𝕥:  ${botname}
-│⋊ ℙ𝕣𝕖𝕗𝕚𝕩:  *${prefix}*
-│⋊ 𝔻𝕒𝕥𝕖: ${xdate}
-│⋊ 𝕋𝕚𝕞𝕖:  ${xtime}
-│⋊ 𝕆𝕨𝕟𝕖𝕣: ${ownername}
-│⋊ 𝕧𝕖𝕣𝕤𝕚𝕠𝕟: ${mver}
-│⋊ ℍ𝕠𝕤𝕥: ${os.hostname()}
-│⋊ ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞: ${os.platform()} 
-│⋊ ℝ𝕦𝕟𝕥𝕚𝕞𝕖: ${runtime(process.uptime())}
-│⋊ 𝕋𝕠𝕥𝕒𝕝𝕔𝕞𝕕: ${mariafeature()}
-│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: https://gg.gg/Maria-support
-╰────────────┈平和
-Here's the list of my Commands.🔖
-${readmore}
-┌──⊰ _*🧧GENERAL🧧*_
-│⊳ 🌿 ${prefix}hi
-│⊳ 🌿 ${prefix}dev
-│⊳ 🌿 ${prefix}info
-│⊳ 🌿 ${prefix}support
-│⊳ 🌿 ${prefix}rules
-│⊳ 🌿 ${prefix}help
-│⊳ 🌿 ${prefix}runtime
-│⊳ 🌿 ${prefix}ping
-│⊳ 🌿 ${prefix}owner
-│⊳ 🌿 ${prefix}script
-└──────────⊰
-
-┌──⊰ _*🧩OWNER🧩*_
-│⊳ ♠️ ${prefix}session
-│⊳ ♠️ ${prefix}join
-│⊳ ♠️ ${prefix}mode *[self/public]*
-│⊳ ♠️ ${prefix}shutdown
-│⊳ ♠️ ${prefix}restart
-│⊳ ♠️ ${prefix}autoread *[option]*
-│⊳ ♠️ ${prefix}autotyping *[option]*
-│⊳ ♠️ ${prefix}autorecording *[option]*
-│⊳ ♠️ ${prefix}autorecordtyp *[option]*
-│⊳ ♠️ ${prefix}autobio *[option]*
-│⊳ ♠️ ${prefix}autoswview *[option]*
-│⊳ ♠️ ${prefix}setppbot
-│⊳ ♠️ ${prefix}block
-│⊳ ♠️ ${prefix}unblock
-│⊳ ♠️ ${prefix}backup
-│⊳ ♠️ ${prefix}getcase
-│⊳ ♠️ ${prefix}creategc
-└──────────⊰
 
 ┌──⊰ _*👮🏻‍♂️GROUP👮🏻‍♂️*_
 │⊳ 🍁 ${prefix}antilink
